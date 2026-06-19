@@ -1,5 +1,5 @@
 // ---------------------------------------------------------
-// PART 1: Constructor Function (Updated for Module 6)
+// PART 1: Constructor Function 
 // ---------------------------------------------------------
 
 function Dog(name, species, gender, origin, personality, mySound, canTalk, img) {
@@ -30,7 +30,7 @@ function Dog(name, species, gender, origin, personality, mySound, canTalk, img) 
 }
 
 // ---------------------------------------------------------
-// PART 2: Create Multiple Dog Objects (LOCAL IMAGES)
+// PART 2: Create Multiple Dog Objects
 // ---------------------------------------------------------
 
 let dog1 = new Dog(
